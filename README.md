@@ -26,3 +26,10 @@
 ```bash
 pip install -r requirements.txt
 
+
+## Зависимости
+beautifulsoup4
+requests
+selenium
+psycopg2-binary
+
