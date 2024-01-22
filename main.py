@@ -1,8 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
-from count_img import get_current_page_info
+from ad_info_collector import get_current_page_info
 from sel_num_phone_fun import get_number
-from postgre_sql_ria import insert_data
+from db_insert_script import insert_data
 import logging
 import os
 from datetime import datetime
