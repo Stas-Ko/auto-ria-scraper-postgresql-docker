@@ -27,7 +27,7 @@
 pip install -r requirements.txt
 
 
-## Зависимости
+##  Зависимости
 beautifulsoup4
 requests
 selenium
