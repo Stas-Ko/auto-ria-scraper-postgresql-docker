@@ -4,3 +4,4 @@ requests
 selenium
 psycopg2-binary
 schedule
+typing-extensions
